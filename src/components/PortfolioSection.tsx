@@ -7,37 +7,37 @@ const portfolioItems = [
   {
     id: 1,
     category: "Gothic",
-    image: "https://images.unsplash.com/photo-1611501275019-9b5cda994e8d?w=800&q=80",
+    image: "https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/project-uploads/05249a2e-8f18-44ad-9671-931969416cec/generated_images/professional-high-resolution-photograph--b1e8dcdb-20251001053258.jpg",
     title: "Ornate Skull",
   },
   {
     id: 2,
     category: "Fine Line",
-    image: "https://images.unsplash.com/photo-1590246814883-57c511a87f24?w=800&q=80",
+    image: "https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/project-uploads/05249a2e-8f18-44ad-9671-931969416cec/generated_images/professional-photograph-of-delicate-fine-76ceab2d-20251001053412.jpg",
     title: "Delicate Florals",
   },
   {
     id: 3,
     category: "Blackwork",
-    image: "https://images.unsplash.com/photo-1565058379802-bbe93b2f703f?w=800&q=80",
+    image: "https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/project-uploads/05249a2e-8f18-44ad-9671-931969416cec/generated_images/professional-photograph-of-bold-blackwor-5fc82920-20251001053822.jpg",
     title: "Bold Statement",
   },
   {
     id: 4,
     category: "Geometric",
-    image: "https://images.unsplash.com/photo-1568515387631-33e350f45645?w=800&q=80",
+    image: "https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/project-uploads/05249a2e-8f18-44ad-9671-931969416cec/generated_images/professional-photograph-of-sacred-geomet-7ea33651-20251001053938.jpg",
     title: "Sacred Geometry",
   },
   {
     id: 5,
     category: "Gothic",
-    image: "https://images.unsplash.com/photo-1598371839696-5c5bb00bdc28?w=800&q=80",
+    image: "https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/project-uploads/05249a2e-8f18-44ad-9671-931969416cec/generated_images/professional-photograph-of-dark-romantic-9c851214-20251001054051.jpg",
     title: "Dark Romance",
   },
   {
     id: 6,
     category: "Fine Line",
-    image: "https://images.unsplash.com/photo-1611496892929-b3e043ede5a4?w=800&q=80",
+    image: "https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/project-uploads/05249a2e-8f18-44ad-9671-931969416cec/generated_images/professional-photograph-of-minimalist-fi-c1cf8621-20251001054159.jpg",
     title: "Minimalist Art",
   },
 ];
